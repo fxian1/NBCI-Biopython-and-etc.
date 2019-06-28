@@ -1,0 +1,19 @@
+Name of Sequence: gi 346  Length of Sequence: 115 
+Name of Sequence: gi 322  Length of Sequence: 442 
+Name of Sequence: gi 88   Length of Sequence: 890 
+Name of Sequence: gi 584  Length of Sequence: 964 
+Name of Sequence: gi 594  Length of Sequence: 967 
+Name of Sequence: gi 304  Length of Sequence: 1151 
+Name of Sequence: gi 75   Length of Sequence: 1352 
+Name of Sequence: gi 277  Length of Sequence: 1432 
+Name of Sequence: gi 4    Length of Sequence: 2095 
+Name of Sequence: gi 527  Length of Sequence: 2646 
+Name of Sequence: gi 250  Length of Sequence: 2867 
+Name of Sequence: gi 45   Length of Sequence: 3511 
+Name of Sequence: gi 396  Length of Sequence: 4076 
+Name of Sequence: gi 293  Length of Sequence: 4338 
+Name of Sequence: gi 454  Length of Sequence: 4564 
+Name of Sequence: gi 91   Length of Sequence: 4635 
+Name of Sequence: gi 16   Length of Sequence: 4804 
+Name of Sequence: gi 255  Length of Sequence: 4894 
+Total Number of Sequences: 18 
