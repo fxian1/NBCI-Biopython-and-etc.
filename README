@@ -1,0 +1,20 @@
+These programs are work from JHU Python with Biological Data Science on Coursera 
+
+notable program names and descriptions:
+
+gc.py - finds the gc percentage of a given sequence
+
+translate.py - returns the translated (amino acid sequence) of a given DNA sequence
+
+substring.py - returns all possible substrings of a string
+
+blast_search.py - finds organism associated with a given sequence in NCBI database
+
+
+Inside genomic final directory:
+
+max_length_seq.py - finds longest sequence in a given FASTA formatted list of sequences
+
+max_orf.py - finds longest open reading frame sequence from a given list of DNA sequences
+
+max_repeat.py - finds longest repeat sequence from a given list of DNA sequences
